@@ -1,0 +1,30 @@
+{
+  "name": "gulp-safety",
+  "version": "0.0.1",
+  "description": "gulp plugin to check if developer need to run npm/bower install due to changes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lokeshjain2008/gulp-safety.git"
+  },
+  "keywords": [
+    "gulpplugin",
+    "gulp",
+    "safety",
+    "safety",
+    "bower/gulp"
+  ],
+  "author": "lokesh kumar jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lokeshjain2008/gulp-safety/issues"
+  },
+  "homepage": "https://github.com/lokeshjain2008/gulp-safety#readme",
+  "dependencies": {
+    "fs": "0.0.2",
+    "md5": "^2.1.0"
+  }
+}
